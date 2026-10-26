@@ -8,7 +8,7 @@ A turma foi dividida em dois grupos. Cada grupo desenvolveu sua solução e seu 
 
 | Arquivo | Descrição |
 |---|---|
-| `Atividade_02_Caixa_Eletronico.docx` | Documento único com a capa, o relatório do Grupo 1, o relatório do Grupo 2 e os dois feedbacks |
+| `Atividade_02_Caixa_Eletronico.pdf` | Documento único com a capa, o relatório do Grupo 1, o relatório do Grupo 2 e os dois feedbacks |
 | `caixa_eletronico_atividade2.c` | Código em C do **Grupo 1** |
 | `caixa_eletronico.c` | Código em C do **Grupo 2** |
 
